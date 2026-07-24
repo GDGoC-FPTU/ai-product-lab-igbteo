@@ -1,3 +1,19 @@
 .venv/
 .env
 __pycache__/
+# Môi trường ảo (Virtual Environment)
+venv/
+env/
+
+# File chứa API Key / Mật khẩu (Che tất cả các file bắt đầu bằng .env)
+.env
+.env.*
+*.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Cấu hình VS Code / IDE
+.vscode/
+.idea/
