@@ -17,7 +17,7 @@ from typing import Any
 
 # Standard Model Identifier
 # gemini-2.5-flash is restricted for new API keys; use a fast Flash successor.
-GEMINI_MODEL = "gemini-3.1-flash-lite"
+GEMINI_MODEL = "gemini-3.5-flash-lite"
 
 
 def _load_env_files() -> None:
