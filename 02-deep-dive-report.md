@@ -14,15 +14,14 @@
 
 ### Thành viên tham gia
 
-| # | Họ và tên |
-|---|-----------|
-| 1 | Lý Thành Dạt 
-| 2 | Ngô Hữu Nghĩa 
-| 3 | Phan Trọng Tiến 
-| 4 | Bùi Văn Khởi
-| 5 | Nguyễn Hữu Nhật Minh
-| 6 | Vũ Minh Quang
-> ⚠️ **Bắt buộc:** Thay các dòng `_(Điền họ tên)_` / `_(MSSV)_` bằng thông tin thật trước khi nộp.
+Nhóm : igbteo
+1 Ngô Hữu Nghĩa 2A202601924
+2 Nguyễn Hữu Nhật Minh 2A202601551
+3 Vũ Minh Quang 2A202601515
+4 Bùi Văn Khởi 2A202601723
+5 Phan Trọng Tiến 2A202601095
+6 Lý Thành Đạt 2A202601469
+
 
 ---
 
